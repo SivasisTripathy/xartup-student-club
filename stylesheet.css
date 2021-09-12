@@ -161,3 +161,6 @@ header {
 .flip {
   background-image: url("./svg/layer2.svg");
 }
+.fnt-mlg {
+  font-size: 2rem;
+}
