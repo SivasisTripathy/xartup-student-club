@@ -136,9 +136,16 @@ header {
   flex: 33%;
 }
 
+.kiskis {
+  display: flex;
+  flex-wrap: wrap-reverse;
+}
 @media (max-width: 768px) {
   .meow2 {
     flex: 100%;
+  }
+  .lekha {
+    text-align: center;
   }
 }
 
